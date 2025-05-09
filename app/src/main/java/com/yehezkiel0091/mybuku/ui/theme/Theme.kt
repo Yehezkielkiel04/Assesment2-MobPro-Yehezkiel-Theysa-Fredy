@@ -1,6 +1,5 @@
-package com.example.mybuku.ui.theme
+package com.yehezkiel0091.mybuku.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

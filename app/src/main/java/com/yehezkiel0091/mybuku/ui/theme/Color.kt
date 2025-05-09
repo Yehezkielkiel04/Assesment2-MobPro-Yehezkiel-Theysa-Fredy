@@ -1,4 +1,4 @@
-package com.example.mybuku.ui.theme
+package com.yehezkiel0091.mybuku.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

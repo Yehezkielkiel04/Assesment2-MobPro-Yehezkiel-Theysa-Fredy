@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">My Buku</string>
+    <string name="app_name">MyBuku</string>
+    <string name="list_kosong">Belum ada buku</string>
+    <string name="x_diklik">%1$s diklik</string>
+    <string name="tambah_buku">Tambah Buku</string>
+    <string name="edit_buku">Ubah Buku</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="penulis">Penulis</string>
+    <string name="genre">Genre</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="invalid">Judul dan penulis tidak boleh kosong</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus buku</string>
+    <string name="pesan_hapus">Yakin ingin menghapus buku ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
 </resources>
